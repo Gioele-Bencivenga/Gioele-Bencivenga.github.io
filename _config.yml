@@ -114,10 +114,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _projects
+  # _portfolio
   - scope:
       path: ""
-      type: projects
+      type: portfolio
     values:
       layout: single
       author_profile: false
