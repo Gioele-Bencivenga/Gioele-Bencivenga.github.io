@@ -89,6 +89,11 @@ footer:
 #   teaser: /assets/images/my-awesome-post-teaser.jpg
 teaser: /assets/images/default-teaser.jpg
 
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -109,6 +114,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
