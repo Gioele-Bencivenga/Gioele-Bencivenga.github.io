@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Gioele Bencivenga
+subtitle: Programming and stuff
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  Just another website.
+twitter_username: "sgnerpock45due"
+github_username: Gioele-Bencivenga
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -58,34 +57,37 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: "Gioele Bencivenga"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I like programming sometimes."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "GitHub"
+      icon: "fab fa-github-square"
+      url: "https://github.com/Gioele-Bencivenga"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://twitter.com/sgnerpock45due"
+    - label: "Itch"
+      icon: "fab fa-itch-io"
+      url: "https://gioele-bencivenga.itch.io/"
 
 footer:
   links:
+    - label: "GitHub"
+      icon: "fab fa-github-square"
+      url: "https://github.com/Gioele-Bencivenga"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://twitter.com/sgnerpock45due"
+    - label: "Itch"
+      icon: "fab fa-itch-io"
+      url: "https://gioele-bencivenga.itch.io/"
+
+# fallback teaser image in related posts
+# can be overridden at anytime by applying the following to a document’s YAML Front Matter
+# header:
+#   teaser: /assets/images/my-awesome-post-teaser.jpg
+teaser: /assets/images/default-teaser.jpg
 
 defaults:
   # _posts
@@ -96,6 +98,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      words_per_minute: 250
       comments: true
       share: true
       related: true
