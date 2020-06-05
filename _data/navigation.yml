@@ -2,9 +2,9 @@ main:
   - title: "Posts"
     description: "List of all my posts"
     url: /posts/
-  - title: "Projects"
-    description: "List of all my projects"
-    url: /projects/
+  - title: "Games"
+    description: "List of all my games"
+    url: /games/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
