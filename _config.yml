@@ -103,6 +103,12 @@ footer:
       icon: "fab fa-itch-io"
       url: "https://gioele-bencivenga.itch.io/"
 
+# These settings essentially say output index.html files for each games document in the _games folder
+collections:
+  games:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -125,17 +131,11 @@ defaults:
   # _games
   - scope:
       path: ""
-      type: pages
+      type: games
     values:
       layout: single
       author_profile: false
       share: true
-
-# These settings essentially say output index.html files for each games document in the _games folder
-collections:
-  games:
-    output: true
-    permalink: /:collection/:path/
 
 category_archive:
   type: liquid
