@@ -131,7 +131,7 @@ defaults:
   # _games
   - scope:
       path: ""
-      type: pages
+      type: games
     values:
       layout: single
       author_profile: false
