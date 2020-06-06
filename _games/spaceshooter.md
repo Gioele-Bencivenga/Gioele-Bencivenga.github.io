@@ -1,10 +1,10 @@
 ---
 title: "Arcade Space Shooter"
 excerpt: "My first game made in Haxe and HaxeFlixel"
-header:
+header: /assets/images/projects/space_shooter/teaser.png
   image: /assets/images/projects/space_shooter/screenshot1.png
   teaser: /assets/images/projects/space_shooter/teaser.png
-sidebar:
+sidebar: 
 
   + title: "Role"
 
