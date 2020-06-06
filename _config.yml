@@ -135,7 +135,7 @@ defaults:
 collections:
   games:
     output: true
-    permalink: /games/
+    permalink: /:collection/:path/
 
 category_archive:
   type: liquid
