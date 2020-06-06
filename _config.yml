@@ -31,15 +31,23 @@ minimal_mistakes_skin: dark
 search: true
 words_per_minute: 250 # reading speed used to calculate minutes to read article
 
+# Comments settings
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones, if not set the OS timezone is used
 
+# no clue what this does
 include:
   - _pages
 
@@ -64,10 +72,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Website Author stuff
 author:
   name: "Gioele Bencivenga"
   avatar: "/assets/images/bio-photo.jpg"
   bio: "I like programming sometimes."
+  location: #Somewhere
+  email:
   links:
     - label: "GitHub"
       icon: "fab fa-github-square"
@@ -79,6 +90,7 @@ author:
       icon: "fab fa-itch-io"
       url: "https://gioele-bencivenga.itch.io/"
 
+# Footer stuff
 footer:
   links:
     - label: "GitHub"
