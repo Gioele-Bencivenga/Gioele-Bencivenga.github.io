@@ -11,7 +11,8 @@ sidebar:
     # image_alt: "placehold alt text"
     text: "Designer, Developer"
   - title: "Responsibilities"
-    text: "Designing and implementing the game, finding and integrating art and sounds."
+    text: "Design;
+    Implementation;"
 gallery:
   - url: /assets/images/projects/space_shooter/screenshot1.png
     image_path: assets/images/projects/space_shooter/screenshot1.png
