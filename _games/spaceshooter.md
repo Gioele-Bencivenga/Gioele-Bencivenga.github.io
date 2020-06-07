@@ -11,8 +11,8 @@ sidebar:
     # image_alt: "placehold alt text"
     text: "Designer, Developer"
   - title: "Responsibilities"
-    text: "Design;
-    Implementation;"
+    text: "Design\nImplementation"
+    
 gallery:
   - url: /assets/images/projects/space_shooter/screenshot1.png
     image_path: assets/images/projects/space_shooter/screenshot1.png
