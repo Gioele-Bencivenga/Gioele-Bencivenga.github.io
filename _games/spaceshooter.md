@@ -50,7 +50,11 @@ Development has stalled for now, this was my first Flixel project so the code is
 
 [Play/Download on Itch](https://www.newgrounds.com/portal/view/754129) if you prefer downloading the game or you just like Itch better
 
-## Technologies
+## Get the Source
+
+The project is Open Source, the repository [can be found here](https://github.com/Gioele-Bencivenga/FlixelGame).
+
+## Technologies Used
 
 Here are the main technologies I used to make this game:
 
@@ -61,4 +65,10 @@ Here are the main technologies I used to make this game:
 | [Piskel](https://www.piskelapp.com/) | PixelArt drawing tool used for minor edits on the image assets |
 | [Audacity](https://www.audacityteam.org/) | Audio software used for minor edits on the audio assets |
 
-The project is Open Source, the repository [can be found here](https://github.com/Gioele-Bencivenga/FlixelGame).
+## Credits
+
+- Asteroid images by Cayden Franklin, [source here](https://opengameart.org/content/pixel-art-2d-asteroid-pack)
+- Ship image by scofanogd, [source here](https://opengameart.org/content/spaceship-9)
+- Laser and particles by Master484, [source here](https://opengameart.org/content/bullet-collection-1-m484)
+- Sound effects by SubspaceAudio, [source here](https://opengameart.org/content/512-sound-effects-8-bit-style)
+- Background music by [Niccolo' Toscani](https://www.instagram.com/niccolo_toscani?r=nametag)
