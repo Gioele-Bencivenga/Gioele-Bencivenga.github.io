@@ -31,6 +31,8 @@ minimal_mistakes_skin: dark
 search: true
 words_per_minute: 250 # reading speed used to calculate minutes to read article
 
+repository: Gioele-Bencivenga/Gioele-Bencivenga.github.io # https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration
+
 # Comments settings
 comments:
   provider: "disqus"
@@ -71,6 +73,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme # https://github.com/benbalter/jekyll-remote-theme
 
 # Website Author stuff
 author:
