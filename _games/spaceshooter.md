@@ -3,15 +3,15 @@ title: "Arcade Space Shooter"
 excerpt: "My first game made in Haxe and HaxeFlixel"
 permalink: /games/spaceshooter/
 header: 
-  image: /assets/images/projects/space_shooter/teaser.png
-  teaser: /assets/images/projects/space_shooter/screenshot1.png
+  image: /assets/images/projects/space_shooter/teaser-wide.png
+  teaser: /assets/images/projects/space_shooter/teaser.png
 sidebar: 
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
+  - title: "Role/s"
+    # image: http://placehold.it/350x250 no image needed here
+    # image_alt: "placehold alt text"
     text: "Designer, Developer"
   - title: "Responsibilities"
-    text: "Making the game"
+    text: "Designing and implementing the game, finding and integrating art and sounds."
 gallery:
   - url: /assets/images/projects/space_shooter/screenshot1.png
     image_path: assets/images/projects/space_shooter/screenshot1.png
