@@ -3,7 +3,7 @@ title: "Arcade Space Shooter"
 excerpt: "My first game made in Haxe and HaxeFlixel"
 permalink: /games/spaceshooter/
 header: 
-  image: /assets/images/projects/space_shooter/screenshot1.png
+  image: /assets/images/projects/space_shooter/teaser.png
   teaser: /assets/images/projects/space_shooter/teaser.png
 sidebar: 
   - title: "Role"
@@ -18,9 +18,6 @@ gallery:
     alt: "Screenshot of spaceship shooting"
   - url: /assets/images/projects/space_shooter/screenshot2.png
     image_path: assets/images/projects/space_shooter/screenshot2.png
-    alt: "Screenshot of spaceship shooting"
-  - url: /assets/images/projects/space_shooter/teaser.png
-    image_path: assets/images/projects/space_shooter/teaser.png
     alt: "Screenshot of spaceship shooting"
 ---
 
