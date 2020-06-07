@@ -16,6 +16,9 @@ sidebar:
 
   - title: "Responsibilities"
     text: "Design, Implementation"
+
+  - title: "Collaborators"
+    text: [Collaborator](google.com)
     
 
 gallery:
@@ -38,10 +41,11 @@ Development has stalled for now, this was my first Flixel project so the code is
 
 ## Technologies
 
-- [Haxe](https://haxe.org/)
-- [HaxeFlixel](https://haxeflixel.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Piskel](https://www.piskelapp.com/)
-- [Audacity](https://www.audacityteam.org/)
+| Technology | Usage |
+| ----------- | ----------- |
+| [Haxe](https://haxe.org/) + [HaxeFlixel](https://haxeflixel.com/) | Language and Framework in which I programmed the game |
+| [Visual Studio Code](https://code.visualstudio.com/) | IDE used for writing the code |
+| [Piskel](https://www.piskelapp.com/) | PixelArt drawing tool used for minor edits on the image assets |
+| [Audacity](https://www.audacityteam.org/) | Audio software used for minor edits on the audio assets |
 
 The project is Open Source, the repository [can be found here](https://github.com/Gioele-Bencivenga/FlixelGame).
