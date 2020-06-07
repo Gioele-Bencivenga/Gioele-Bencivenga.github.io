@@ -6,34 +6,22 @@ header:
   image: /assets/images/projects/space_shooter/screenshot1.png
   teaser: /assets/images/projects/space_shooter/teaser.png
 sidebar: 
-
-  + title: "Role"
-
+  - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "logo"
     text: "Designer, Developer"
-
-  + title: "Responsibilities"
-
+  - title: "Responsibilities"
     text: "Making the game"
-
 gallery:
-
-  + url: /assets/images/projects/space_shooter/screenshot1.png
-
+  - url: /assets/images/projects/space_shooter/screenshot1.png
     image_path: assets/images/projects/space_shooter/screenshot1.png
     alt: "Screenshot of spaceship shooting"
-
-  + url: /assets/images/projects/space_shooter/screenshot2.png
-
+  - url: /assets/images/projects/space_shooter/screenshot2.png
     image_path: assets/images/projects/space_shooter/screenshot2.png
     alt: "Screenshot of spaceship shooting"
-
-  + url: /assets/images/projects/space_shooter/teaser.png
-
+  - url: /assets/images/projects/space_shooter/teaser.png
     image_path: assets/images/projects/space_shooter/teaser.png
     alt: "Screenshot of spaceship shooting"
-
 ---
 
 Retro arcade space shooter prototype I made using Haxe and HaxeFlixel with the Nape physics engine.
