@@ -1,4 +1,5 @@
 ---
+toc: true
 title: "Arcade Space Shooter"
 excerpt: "A top down, retro looking, space shooter developed with Haxe and HaxeFlixel"
 permalink: /games/spaceshooter/
@@ -18,7 +19,7 @@ sidebar:
     text: "Design, Implementation"
 
   - title: "Collaborators"
-    text: [Collaborator](google.com)
+    text: "[Niccolo' Toscani](https://www.instagram.com/niccolo_toscani/?r=nametag) - Background Music Composer"
     
 
 gallery:
@@ -33,13 +34,25 @@ gallery:
 
 ---
 
-Retro arcade space shooter prototype I made using Haxe and HaxeFlixel with the Nape physics engine.
+Retro arcade space shooter prototype I made using [Haxe](https://haxe.org/) and [HaxeFlixel](https://haxeflixel.com/) with the [Nape](https://joecreates.github.io/napephys/index.html) physics engine.
 
-Development has stalled for now, this was my first Flixel project so the code is messy. I learned a lot from making the game though.
+I started by recreating the [Asteroids demo project](https://haxeflixel.com/demos/FlxTeroids/) found on the Flixel website, then added stuff I liked and/or wanted to learn to use like physics, particle effects, screen shake, enemies in the form of mines that follow and explode on contact, an open world and camera system.
+
+Development has stalled for now, this was my first Flixel project so the code is messy and I need to find the will to restructure some classes before adding more stuff. I learned a lot from making the game though.
+
+## Gallery
 
 {% include gallery caption="Some screenshots from the game" %}
 
+## Play the Game
+
+[Play on Newgrounds](https://www.newgrounds.com/portal/view/754129) if you're just interested in playing in the browser (JavaScript required)
+
+[Play/Download on Itch](https://www.newgrounds.com/portal/view/754129) if you prefer downloading the game or you just like Itch better
+
 ## Technologies
+
+Here are the main technologies I used to make this game:
 
 | Technology | Usage |
 | ----------- | ----------- |
