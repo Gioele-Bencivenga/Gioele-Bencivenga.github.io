@@ -1,11 +1,10 @@
 ---
-toc: true
-title: "Arcade Space Shooter"
-excerpt: "A top down, retro looking, space shooter developed with Haxe and HaxeFlixel"
-permalink: /games/spaceshooter/
+title: "Mayor Outbreak"
+excerpt: "A top down, retro looking, outbreak simulation developed with Haxe and HaxeFlixel"
+permalink: /games/mayor_outbreak/
 header: 
-  image: /assets/images/projects/space_shooter/teaser-wide.png
-  teaser: /assets/images/projects/space_shooter/teaser.png
+  image: /assets/images/projects/mayor_outbreak/teaser-wide.png
+  teaser: /assets/images/projects/mayor_outbreak/teaser.png
 
 # vscode auto format changes the - to + breaking the page, watch out for that
 sidebar: 
@@ -18,25 +17,40 @@ sidebar:
   - title: "Responsibilities"
     text: "Design, Implementation"
 
-  - title: "Collaborators"
-    text: "[Niccolo' Toscani](https://www.instagram.com/niccolo_toscani/?r=nametag) - Background Music Composer"
+  - title: "Project Status"
+    text: "Unfinished, development stalled"
     
 
 gallery:
 
-  - url: /assets/images/projects/space_shooter/screenshot1.png
-    image_path: assets/images/projects/space_shooter/screenshot1.png
-    alt: "Screenshot of spaceship shooting"
+  - url: /assets/images/projects/mayor_outbreak/screenshot1.png
+    image_path: assets/images/projects/mayor_outbreak/screenshot1.png
+    alt: ""
 
-  - url: /assets/images/projects/space_shooter/screenshot2.png
-    image_path: assets/images/projects/space_shooter/screenshot2.png
-    alt: "Screenshot of spaceship shooting"
+  - url: /assets/images/projects/mayor_outbreak/screenshot2.png
+    image_path: assets/images/projects/mayor_outbreak/screenshot2.png
+    alt: ""
+
+toc: true
+
+categories:
+  - Games
+
+tags:
+  - Haxe
+  - HaxeFlixel
+  - Arcade
+  - Retro
+  - Simulation
+  - Outbreak
+  - AloneTogether
+  - HaxeFlixelJam
 
 ---
 
-Retro arcade space shooter prototype I made using [Haxe](https://haxe.org/) and [HaxeFlixel](https://haxeflixel.com/) with the [Nape](https://joecreates.github.io/napephys/index.html) physics engine.
+Retro looking outbreak simulation prototype I made using [Haxe](https://haxe.org/) and [HaxeFlixel](https://haxeflixel.com/) for the [Newgrounds HaxeFlixel Game Jam](https://www.newgrounds.com/bbs/topic/1450269).
 
-I started by recreating the [Asteroids demo project](https://haxeflixel.com/demos/FlxTeroids/) found on the Flixel website, then added stuff I liked and/or wanted to learn to use like physics, particle effects, screen shake, enemies in the form of mines that follow and explode on contact, an open world and camera system.
+I started by following [this tutorial](https://haxeflixel.com/documentation/tutorial/) on the Flixel website, then branched off and added some stuff of my own.
 
 Development has stalled for now, this was my first Flixel project so the code is messy and I need to find the will to restructure some classes before adding more stuff. I learned a lot from making the game though.
 
@@ -67,8 +81,16 @@ Here are the main technologies I used to make this game:
 
 ## Credits
 
+### Images
+
 - Asteroid images by Cayden Franklin, [source here](https://opengameart.org/content/pixel-art-2d-asteroid-pack)
 - Ship image by scofanogd, [source here](https://opengameart.org/content/spaceship-9)
 - Laser and particles by Master484, [source here](https://opengameart.org/content/bullet-collection-1-m484)
+
+### Sounds
+
 - Sound effects by SubspaceAudio, [source here](https://opengameart.org/content/512-sound-effects-8-bit-style)
+
+### Music
+
 - Background music by [Niccolo' Toscani](https://www.instagram.com/niccolo_toscani?r=nametag)
