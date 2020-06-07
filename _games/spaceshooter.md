@@ -4,7 +4,7 @@ excerpt: "My first game made in Haxe and HaxeFlixel"
 permalink: /games/spaceshooter/
 header: 
   image: /assets/images/projects/space_shooter/teaser.png
-  teaser: /assets/images/projects/space_shooter/teaser.png
+  teaser: /assets/images/projects/space_shooter/screenshot1.png
 sidebar: 
   - title: "Role"
     image: http://placehold.it/350x250
