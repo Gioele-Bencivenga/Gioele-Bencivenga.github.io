@@ -2,9 +2,17 @@
 title: "Arcade Space Shooter"
 excerpt: "A top down, retro looking, space shooter developed with Haxe and HaxeFlixel"
 permalink: /games/space_shooter/
+
 header: 
-  image: /assets/images/projects/space_shooter/teaser-wide.png
-  teaser: /assets/images/projects/space_shooter/teaser.png
+  teaser: /assets/images/games/space_shooter/teaser.png
+  overlay_image: /assets/images/games/space_shooter/teaser-wide.png
+  overlay_filter: 0.3 # the lower the more visible the image is
+  # caption: "This is a caption: [**This is a Link**](https://unsplash.com)"
+  actions:
+    - label: "See on Newgrounds"
+      url: "https://www.newgrounds.com/portal/view/754129"
+    - label: "See on Itch"
+      url: "https://gioele-bencivenga.itch.io/asteroid-shooter"
 
 # vscode auto format changes the - to + breaking the page, watch out for that
 sidebar: 
@@ -26,12 +34,12 @@ sidebar:
 
 gallery:
 
-  - url: /assets/images/projects/space_shooter/screenshot1.png
-    image_path: assets/images/projects/space_shooter/screenshot1.png
+  - url: /assets/images/games/space_shooter/screenshot1.png
+    image_path: assets/images/games/space_shooter/screenshot1.png
     alt: "Screenshot of spaceship shooting"
 
-  - url: /assets/images/projects/space_shooter/screenshot2.png
-    image_path: assets/images/projects/space_shooter/screenshot2.png
+  - url: /assets/images/games/space_shooter/screenshot2.png
+    image_path: assets/images/games/space_shooter/screenshot2.png
     alt: "Screenshot of spaceship shooting"
 
 toc: true
@@ -60,13 +68,7 @@ Development has stalled for now, this was my first Flixel project so the code is
 
 {% include gallery caption="Some screenshots from the game" %}
 
-## Play the Game
-
-[Play on Newgrounds](https://www.newgrounds.com/portal/view/754129) if you're just interested in playing in the browser (JavaScript required)
-
-[Play/Download on Itch](https://www.newgrounds.com/portal/view/754129) if you prefer downloading the game or you just like Itch better
-
-## Get the Source
+## Source Code
 
 The project is Open Source, the repository [can be found here](https://github.com/Gioele-Bencivenga/FlixelGame).
 
@@ -91,7 +93,7 @@ Here are the main technologies I used to make this game:
 
 ### Sounds
 
-- Sound effects by SubspaceAudio, [source here](https://opengameart.org/content/512-sound-effects-8-bit-style)
+- Sound effects by [Juhani Junkala](https://www.youtube.com/watch?v=dbACpSy9FWY), [source here](https://opengameart.org/content/512-sound-effects-8-bit-style)
 
 ### Music
 
