@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Gioele Bencivenga
-subtitle: Programming and stuff
+subtitle: Programming, games, stuff
 title-separator: "-" # no clue what this does
 email:
 name: "Gioele Bencivenga"
 description: >- # this means to ignore newlines until "baseurl:"
-  Just another website.
+  Just another website about programming and gamedev.
 logo: /assets/images/logo.png
 # can be overridden at anytime by applying the following to a document’s YAML Front Matter
 # header:
@@ -80,11 +80,11 @@ author:
   name: "Gioele Bencivenga"
   avatar: "/assets/images/bio-photo.jpg"
   bio: "I like programming and developing games!"
-  location: UK
+  location: 
   email:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/sgnerpock45due" # https://fontawesome.com/icons?d=gallery&q
     - label: "GitHub"
       icon: "fab fa-github-square"
