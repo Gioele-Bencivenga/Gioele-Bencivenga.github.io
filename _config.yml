@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Gioele Bencivenga
-subtitle: Programming, games, stuff
+subtitle: programming, games, stuff
 title-separator: "-" # no clue what this does
 email:
 name: "Gioele Bencivenga"
@@ -79,7 +79,7 @@ plugins:
 author:
   name: "Gioele Bencivenga"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I like programming and developing games!"
+  bio: "I like programming and developing, mostly games."
   location: 
   email:
   links: # https://fontawesome.com/icons?d=gallery&q
