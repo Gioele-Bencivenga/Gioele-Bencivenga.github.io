@@ -12,9 +12,7 @@ tags:
 
 **Credits Time!**
 This post is just a text version of [this video](https://www.youtube.com/watch?v=DFvBnsY15Bo).
-
 I'm in no way affiliated with the author of the video.
-
 I couldn't find a written explanation of how to do this when I was searching, so I thought about making a post.
 {: .notice--primary}
 
