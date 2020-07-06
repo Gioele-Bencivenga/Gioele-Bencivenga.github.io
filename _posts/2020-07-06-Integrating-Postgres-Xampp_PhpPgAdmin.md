@@ -16,9 +16,10 @@ I'm in no way affiliated with the author of the video.
 I couldn't find a written explanation of how to do this when I was searching, so I thought about making a post.
 {: .notice--primary}
 
-## Notes
+## To Note
 
 This guide assumes that we have already [installed xampp](https://www.apachefriends.org/download.html).
+
 I haven't experimented with the paths and naming so I don't know if folder names and structure have to be set up like this in order for it to work.
 
 ### 1 - Install PostgreSQL
