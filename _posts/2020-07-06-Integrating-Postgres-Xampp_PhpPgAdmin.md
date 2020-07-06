@@ -24,13 +24,13 @@ This guide assumes that we have already [installed xampp](https://www.apachefrie
 
 I haven't experimented with the paths and naming so I don't know if folder names and structure have to be set up like this in order for it to work.
 
-### 1 - Install PostgreSQL
+## 1 - Install PostgreSQL
 
 Download the installer [from here](https://www.postgresql.org/download/) and run it.
 
 Set the installation path to `C:\xampp\pgsql\12` (the pgsql folder will need to be created, the folder named `12` needs to be created, I named it like that based on the current postgres version).
 
-#### 1.1 - Modify php Config
+### 1.1 - Modify php Config
 
 Navigate to `C:\xampp\php` and open `php.ini` with an editor like VSCode or Notepad++.
 
@@ -38,7 +38,7 @@ Uncomment (by removing the preceding `;`) the lines `extension=pgsql` and `exten
 
 Save the file.
 
-### 2 - Install PhpPgAdmin
+## 2 - Install PhpPgAdmin
 
 Download the master branch from the [repository](https://github.com/phppgadmin/phppgadmin) (Code > Download ZIP).
 
@@ -46,7 +46,7 @@ Extract the contents of the folder into any other folder.
 
 Get the all of the contents (`CTRL + A`) of the extracted folder and move them into `C:\xampp\phpPgAdmin` (the folder `phpPgAdmin` will need to be created).
 
-#### 2.1 - Modify PhpPgAdmin Config
+### 2.1 - Modify PhpPgAdmin Config
 
 Go to `C:\xampp\phpPgAdmin\conf` and rename `config.inc.php-dist` to `config.inc.php`.
 
@@ -60,7 +60,7 @@ Change the line `$conf['extra_login_security'] = true;` to `$conf['extra_login_s
 
 Save the file.
 
-### 3 - Modify Xampp Config
+## 3 - Modify Xampp Config
 
 Search for the file `httpd-xampp.conf` and open it.
 
@@ -74,7 +74,7 @@ Require all granted
 </directory>
 ```
 
-### 4 - Check if it Works
+## 4 - Check if it Works
 
 Check if everything went smoothly by going to `http://localhost/phpPgAdmin/`.
 
