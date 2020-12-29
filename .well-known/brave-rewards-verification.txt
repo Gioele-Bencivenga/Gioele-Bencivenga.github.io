@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: gioele-bencivenga.github.io
-Token: 720b9bcdb18cfdd9df561996227cf5ac23db46d41580d2f74c94dae288c77904
