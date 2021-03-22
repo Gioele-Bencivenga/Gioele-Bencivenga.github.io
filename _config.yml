@@ -80,23 +80,29 @@ author:
   name: "Gioele Bencivenga"
   avatar: "/assets/images/bio-photo.jpg"
   bio: "I like programming and developing, mostly games."
-  location: 
+  location:
   email:
   links: # https://fontawesome.com/icons?d=gallery&q
-    - label: "GitHub"
+    - label: "See my code on GitHub"
       icon: "fab fa-github"
       url: "https://github.com/Gioele-Bencivenga"
+    - label: "Play my games on Itch"
+      icon: "fab fa-itch-io"
+      url: "https://gioele-bencivenga.itch.io/"
+    - label: " Play my games on Newgrounds"
+      icon: # leaving this empty uses the general link icon
+      url: "https://fat-leech.newgrounds.com/"
+    - label: "Buy me a coffee"
+      icon:
+      url: "https://ko-fi.com/gioele"
+    - label: "Support me on Patreon"
+      icon:
+      url: "https://www.patreon.com/gioeleben"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://uk.linkedin.com/in/gioele-bencivenga"
-    - label: "Itch"
-      icon: "fab fa-itch-io"
-      url: "https://gioele-bencivenga.itch.io/"
-    - label: "Newgrounds"
-      icon: # leaving this empty uses the general link icon
-      url: "https://fat-leech.newgrounds.com/"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
+      icon: "fab fa-twitter"
       url: "https://twitter.com/sgnerpock45due"
 
 # Footer stuff
