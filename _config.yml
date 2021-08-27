@@ -41,7 +41,7 @@ comments:
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Outputting
 permalink: /:categories/:title/
@@ -79,7 +79,7 @@ plugins:
 author:
   name: "Gioele Bencivenga"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I like programming and developing, mostly games."
+  bio: "I like developing software, especially if it includes colored things moving around."
   location:
   email:
   links: # https://fontawesome.com/icons?d=gallery&q
@@ -89,7 +89,7 @@ author:
     - label: "Play my games on Itch"
       icon: "fab fa-itch-io"
       url: "https://gioele-bencivenga.itch.io/"
-    - label: " Play my games on Newgrounds"
+    - label: "Play my games on Newgrounds"
       icon: # leaving this empty uses the general link icon
       url: "https://fat-leech.newgrounds.com/"
     - label: "Buy me a coffee"
