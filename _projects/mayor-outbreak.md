@@ -1,11 +1,11 @@
 ---
 title: "Mayor Outbreak"
-excerpt: "A top down, retro looking, outbreak simulation developed with Haxe and HaxeFlixel"
-permalink: /games/mayor_outbreak/
+excerpt: "A top down, retro looking, virus outbreak simulation developed with Haxe and HaxeFlixel"
+permalink: /projects/mayor_outbreak/
 
 header: 
-  teaser: /assets/images/games/mayor_outbreak/teaser.png
-  overlay_image: /assets/images/games/mayor_outbreak/teaser.png
+  teaser: /assets/images/projects/mayor_outbreak/teaser.png
+  overlay_image: /assets/images/projects/mayor_outbreak/teaser.png
   overlay_filter: 0.6 # the lower the more visible the image is
   # caption: "This is a caption: [**This is a Link**](https://unsplash.com)"
   actions:
@@ -31,13 +31,13 @@ sidebar:
 
 gallery:
 
-  - url: /assets/images/games/mayor_outbreak/screenshot1.png
-    image_path: assets/images/games/mayor_outbreak/screenshot1.png
-    alt: "Screenshot of game"
+  - url: /assets/images/projects/mayor_outbreak/screenshot1.png
+    image_path: assets/images/projects/mayor_outbreak/screenshot1.png
+    alt: "First screenshot of game"
 
-  - url: /assets/images/games/mayor_outbreak/screenshot2.png
-    image_path: assets/images/games/mayor_outbreak/screenshot2.png
-    alt: "Screenshot of game"
+  - url: /assets/images/projects/mayor_outbreak/screenshot2.png
+    image_path: assets/images/projects/mayor_outbreak/screenshot2.png
+    alt: "Second screenshot of game"
 
 toc: true
 
@@ -53,6 +53,7 @@ tags:
   - Outbreak
   - AloneTogether
   - HaxeFlixelJam
+  - Newgrounds
 
 ---
 
@@ -76,13 +77,13 @@ The project is Open Source, the repository [can be found here](https://github.co
 
 Here are the main technologies I used to make this game:
 
-| Technology | Usage |
-| ----------- | ----------- |
-| [Haxe](https://haxe.org/) + [HaxeFlixel](https://haxeflixel.com/) | Language and Framework in which I programmed the game |
-| [Visual Studio Code](https://code.visualstudio.com/) | IDE used for writing the code |
-| [Ogmo Editor](https://ogmo-editor-3.github.io/) | Level editor used to design the city tilemap |
-| [Piskel](https://www.piskelapp.com/) | PixelArt drawing tool used for minor edits on the image assets |
-| [Audacity](https://www.audacityteam.org/) | Audio software used for minor edits on the audio assets |
+| Technology                                                        | Usage                                                          |
+| ----------------------------------------------------------------- | -------------------------------------------------------------- |
+| [Haxe](https://haxe.org/) + [HaxeFlixel](https://haxeflixel.com/) | Language and Framework in which I programmed the game          |
+| [Visual Studio Code](https://code.visualstudio.com/)              | IDE used for writing the code                                  |
+| [Ogmo Editor](https://ogmo-editor-3.github.io/)                   | Level editor used to design the city tilemap                   |
+| [Piskel](https://www.piskelapp.com/)                              | PixelArt drawing tool used for minor edits on the image assets |
+| [Audacity](https://www.audacityteam.org/)                         | Audio software used for minor edits on the audio assets        |
 
 ## Credits
 

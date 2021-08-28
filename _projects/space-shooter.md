@@ -1,11 +1,11 @@
 ---
 title: "Arcade Space Shooter"
 excerpt: "A top down, retro looking, space shooter developed with Haxe and HaxeFlixel"
-permalink: /games/space_shooter/
+permalink: /projects/space_shooter/
 
 header: 
-  teaser: /assets/images/games/space_shooter/teaser.png
-  overlay_image: /assets/images/games/space_shooter/teaser-wide.png
+  teaser: /assets/images/projects/space_shooter/teaser.png
+  overlay_image: /assets/images/projects/space_shooter/teaser-wide.png
   overlay_filter: 0.3 # the lower the more visible the image is
   # caption: "This is a caption: [**This is a Link**](https://unsplash.com)"
   actions:
@@ -34,12 +34,12 @@ sidebar:
 
 gallery:
 
-  - url: /assets/images/games/space_shooter/screenshot1.png
-    image_path: assets/images/games/space_shooter/screenshot1.png
+  - url: /assets/images/projects/space_shooter/screenshot1.png
+    image_path: assets/images/projects/space_shooter/screenshot1.png
     alt: "Screenshot of spaceship shooting"
 
-  - url: /assets/images/games/space_shooter/screenshot2.png
-    image_path: assets/images/games/space_shooter/screenshot2.png
+  - url: /assets/images/projects/space_shooter/screenshot2.png
+    image_path: assets/images/projects/space_shooter/screenshot2.png
     alt: "Screenshot of spaceship shooting"
 
 toc: true
@@ -76,12 +76,12 @@ The project is Open Source, the repository [can be found here](https://github.co
 
 Here are the main technologies I used to make this game:
 
-| Technology | Usage |
-| ----------- | ----------- |
-| [Haxe](https://haxe.org/) + [HaxeFlixel](https://haxeflixel.com/) | Language and Framework in which I programmed the game |
-| [Visual Studio Code](https://code.visualstudio.com/) | IDE used for writing the code |
-| [Piskel](https://www.piskelapp.com/) | PixelArt drawing tool used for minor edits on the image assets |
-| [Audacity](https://www.audacityteam.org/) | Audio software used for minor edits on the audio assets |
+| Technology                                                        | Usage                                                          |
+| ----------------------------------------------------------------- | -------------------------------------------------------------- |
+| [Haxe](https://haxe.org/) + [HaxeFlixel](https://haxeflixel.com/) | Language and Framework in which I programmed the game          |
+| [Visual Studio Code](https://code.visualstudio.com/)              | IDE used for writing the code                                  |
+| [Piskel](https://www.piskelapp.com/)                              | PixelArt drawing tool used for minor edits on the image assets |
+| [Audacity](https://www.audacityteam.org/)                         | Audio software used for minor edits on the audio assets        |
 
 ## Credits
 
