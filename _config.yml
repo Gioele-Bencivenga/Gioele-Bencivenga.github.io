@@ -137,7 +137,6 @@ defaults:
       share: true
       related: true
       show_date: true
-      date_format: "%Y-%m-%d"
       toc: true
       toc_sticky: true
   # _pages
@@ -156,6 +155,9 @@ defaults:
       author_profile: false
       share: true
       comments: true
+      show_date: true
+      toc: true
+      toc_sticky: true
 
 category_archive:
   type: liquid
