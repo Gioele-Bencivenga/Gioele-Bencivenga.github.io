@@ -1,13 +1,15 @@
 main:
   - title: "Posts"
-    description: "List of all my posts"
+    description: "Posts sorted by date"
     url: /posts/
   - title: "Projects"
-    description: "List of all my projects"
+    description: "List of some my projects"
     url: /projects/
   - title: "Categories"
+    description: "My posts sorted by category"
     url: /categories/
   - title: "Tags"
+    description: "My posts sorted by tag"
     url: /tags/
   - title: "About"
     description: "Something about myself"

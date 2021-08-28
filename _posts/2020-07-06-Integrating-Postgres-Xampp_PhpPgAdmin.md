@@ -1,6 +1,7 @@
 ---
 title: "Installing PostgreSQL in Xampp and Integrating PhpPgAdmin"
 toc: true
+toc_sticky: true
 categories:
   - Random Knowledge
 tags:
