@@ -6,12 +6,12 @@ permalink: /projects/mayor_outbreak/
 header: 
   teaser: /assets/images/projects/mayor_outbreak/teaser.png
   overlay_image: /assets/images/projects/mayor_outbreak/teaser.png
-  overlay_filter: 0.6 # the lower the more visible the image is
+  overlay_filter: 0.55 # the lower the more visible the image is
   # caption: "This is a caption: [**This is a Link**](https://unsplash.com)"
   actions:
-    - label: "See on Newgrounds"
+    - label: "Play on Newgrounds"
       url: "https://www.newgrounds.com/portal/view/753676"
-    - label: "See on Itch"
+    - label: "Play on Itch"
       url: "https://gioele-bencivenga.itch.io/mayor-outbreak"
 
 # vscode auto format changes the - to + breaking the page, watch out for that

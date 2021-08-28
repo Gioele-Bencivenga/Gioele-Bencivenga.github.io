@@ -9,9 +9,9 @@ header:
   overlay_filter: 0.3 # the lower the more visible the image is
   # caption: "This is a caption: [**This is a Link**](https://unsplash.com)"
   actions:
-    - label: "See on Newgrounds"
+    - label: "Play on Newgrounds"
       url: "https://www.newgrounds.com/portal/view/754129"
-    - label: "See on Itch"
+    - label: "Play on Itch"
       url: "https://gioele-bencivenga.itch.io/asteroid-shooter"
 
 # vscode auto format changes the - to + breaking the page, watch out for that

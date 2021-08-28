@@ -45,7 +45,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 6 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones, if not set the OS timezone is used
 
@@ -138,6 +138,8 @@ defaults:
       related: true
       show_date: true
       date_format: "%Y-%m-%d"
+      toc: true
+      toc_sticky: true
   # _pages
   - scope:
       path: "_pages"
