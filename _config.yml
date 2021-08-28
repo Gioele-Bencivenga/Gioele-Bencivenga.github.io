@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Gioele Bencivenga
-subtitle: programming, games, stuff
+subtitle: programming and stuff
 title-separator: "-" # no clue what this does
 email:
 name: "Gioele Bencivenga"
@@ -120,7 +120,7 @@ footer:
 
 # These settings essentially say output index.html files for each games document in the _games folder
 collections:
-  games:
+  projects:
     output: true
     permalink: /:collection/:path/
 
@@ -143,10 +143,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _games
+  # _projects
   - scope:
       path: ""
-      type: games
+      type: projects
     values:
       layout: single
       author_profile: false
