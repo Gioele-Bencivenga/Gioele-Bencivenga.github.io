@@ -72,11 +72,10 @@ tags:
 
 ## Project Description
 
-Retro arcade space shooter prototype I made using [Haxe](https://haxe.org/) and [HaxeFlixel](https://haxeflixel.com/) with the [Nape](https://joecreates.github.io/napephys/index.html) physics engine.
-
-I started by recreating the [Asteroids demo project](https://haxeflixel.com/demos/FlxTeroids/) found on the Flixel website, then added stuff I liked and/or wanted to learn to use like physics, particle effects, screen shake, enemies in the form of mines that follow and explode on contact, an open world and camera system.
-
-Development has stalled for now, this was my first Flixel project so the code is messy and I need to find the will to restructure some classes before adding more stuff. I learned a lot from making the game though.
+Dissertation (final year project) made while at Keele University. 
+The agents have a set of rays shooting from in front of them to sense the environment and a multilayer perceptron as a brain to decide what to do.
+They can bite food, each other, or poison and have a limited amount of energy.
+At set intervals the best individuals in the population reproduce and the worst are removed from the simulation, over time agents will be fitter and fitter, surviving more time.
 
 ## Gallery
 
