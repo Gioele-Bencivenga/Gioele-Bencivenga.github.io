@@ -72,7 +72,7 @@ tags:
 
 ## Project Description
 
-Dissertation (final year project) made while at Keele University. 
+Dissertation (final year project) made while at Keele University.
 The agents have a set of rays shooting from in front of them to sense the environment and a multilayer perceptron as a brain to decide what to do.
 They can bite food, each other, or poison and have a limited amount of energy.
 At set intervals the best individuals in the population reproduce and the worst are removed from the simulation, over time agents will be fitter and fitter, surviving more time.
