@@ -5,7 +5,7 @@ permalink: /projects/auto_agents/
 
 header: 
   teaser: /assets/images/projects/auto_agents/teaser.png
-  overlay_image: /assets/images/projects/auto_agents/teaser-wide.png
+  overlay_image: /assets/images/projects/auto_agents/teaser.png
   overlay_filter: 0.3 # the lower the more visible the image is
   # caption: "This is a caption: [**This is a Link**](https://unsplash.com)"
   actions:
