@@ -70,6 +70,8 @@ tags:
 
 ---
 
+## Project Description
+
 Retro arcade space shooter prototype I made using [Haxe](https://haxe.org/) and [HaxeFlixel](https://haxeflixel.com/) with the [Nape](https://joecreates.github.io/napephys/index.html) physics engine.
 
 I started by recreating the [Asteroids demo project](https://haxeflixel.com/demos/FlxTeroids/) found on the Flixel website, then added stuff I liked and/or wanted to learn to use like physics, particle effects, screen shake, enemies in the form of mines that follow and explode on contact, an open world and camera system.

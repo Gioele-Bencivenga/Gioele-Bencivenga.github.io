@@ -57,6 +57,8 @@ tags:
 
 ---
 
+## Project Description
+
 Retro looking outbreak simulation prototype I made using [Haxe](https://haxe.org/) and [HaxeFlixel](https://haxeflixel.com/) for the [Newgrounds HaxeFlixel Game Jam](https://www.newgrounds.com/bbs/topic/1450269).
 
 I started by following [this tutorial](https://haxeflixel.com/documentation/tutorial/) on the Flixel website, then branched off and added some stuff of my own.
