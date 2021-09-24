@@ -10,9 +10,9 @@ header:
   # caption: "This is a caption: [**This is a Link**](https://unsplash.com)"
   actions:
     - label: "Play on Newgrounds"
-      url: "https://www.newgrounds.com/portal/view/754129"
+      url: "https://www.newgrounds.com/portal/view/..."
     - label: "Play on Itch"
-      url: "https://gioele-bencivenga.itch.io/asteroid-shooter"
+      url: "https://gioele-bencivenga.itch.io/auto-agents"
 
 # vscode auto format changes the - to + breaking the page, watch out for that
 sidebar: 
@@ -34,13 +34,25 @@ sidebar:
 
 gallery:
 
-  - url: /assets/images/projects/auto_agents/screenshot1.png
-    image_path: assets/images/projects/space_shooter/screenshot1.png
-    alt: "Screenshot of "
+  - url: /assets/images/projects/auto_agents/environment.png
+    image_path: assets/images/projects/auto_agents/environment.png
+    alt: "Image displaying the enclosed environment where the simulation takes place. "
 
-  - url: /assets/images/projects/auto_agents/screenshot2.png
-    image_path: assets/images/projects/space_shooter/screenshot2.png
-    alt: "Screenshot of "
+  - url: /assets/images/projects/auto_agents/foodnpoison.png
+    image_path: assets/images/projects/auto_agents/foodnpoison.png
+    alt: "Image showing the representation of food (in magenta) and poison (in green). Their hitboxes are a circle even though they are displayed as a colored square."
+  
+  - url: /assets/images/projects/auto_agents/mlp_structure.png
+    image_path: assets/images/projects/auto_agents/mlp_structure.png
+    alt: "Image showing the structure of the multilayer perceptron. Size of the input and hidden layer was varied during experiments."
+  
+  - url: /assets/images/projects/auto_agents/mlp_test.png
+    image_path: assets/images/projects/auto_agents/mlp_test.png
+    alt: "Screenshot of the program used to test the functioning of the multilayer perceptron."
+  
+  - url: /assets/images/projects/auto_agents/sensors.png
+    image_path: assets/images/projects/auto_agents/sensors.png
+    alt: "Image showing the sensors that the agents used to sense the environment. Number and length of sensors was varied during experiments."
 
 toc: true
 
@@ -66,7 +78,7 @@ Development has stalled for now, this was my first Flixel project so the code is
 
 ## Gallery
 
-{% include gallery caption="Images of the project" %}
+{% include gallery caption="Project-related images" %}
 
 ## Source Code
 
