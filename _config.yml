@@ -19,13 +19,13 @@ title-separator: "-" # no clue what this does
 email:
 name: "Gioele Bencivenga"
 description: >- # this means to ignore newlines until "baseurl:"
-  Just another website about programming and gamedev.
+  My website mainly about programming.
 logo: /assets/images/logo.png
 # can be overridden at anytime by applying the following to a document’s YAML Front Matter
 # header:
 #   teaser: /assets/images/my-awesome-post-teaser.jpg
 teaser: /assets/images/default-teaser.jpg # fallback teaser image in related posts
-twitter_username: "sgnerpock45due"
+twitter_username: ""
 github_username: Gioele-Bencivenga
 minimal_mistakes_skin: dark
 search: true
@@ -79,31 +79,25 @@ plugins:
 author:
   name: "Gioele Bencivenga"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I like developing software, especially if it includes colored things moving around."
+  bio: "I enjoy developing software"
   location:
-  email:
+  email: 
   links: # https://fontawesome.com/icons?d=gallery&q
-    - label: "See my code on GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/Gioele-Bencivenga"
-    - label: "Play my games on Itch"
-      icon: "fab fa-itch-io"
-      url: "https://gioele-bencivenga.itch.io/"
-    - label: "Play my games on Newgrounds"
-      icon: # leaving this empty uses the general link icon
-      url: "https://fat-leech.newgrounds.com/"
-    - label: "Buy me a coffee"
-      icon:
-      url: "https://ko-fi.com/gioele"
-    - label: "Support me on Patreon"
-      icon:
-      url: "https://www.patreon.com/gioeleben"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://uk.linkedin.com/in/gioele-bencivenga"
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/sgnerpock45due"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Gioele-Bencivenga"
+    - label: "Itch.io"
+      icon: "fab fa-itch-io"
+      url: "https://gioele-bencivenga.itch.io/"
+    - label: "Newgrounds"
+      icon: # leaving this empty uses the general link icon
+      url: "https://fat-leech.newgrounds.com/"
+    - label: "Buy me a coffee"
+      icon: "fas fa-coffee"
+      url: "https://ko-fi.com/gioele"
 
 # Footer stuff
 footer:
@@ -111,14 +105,11 @@ footer:
     - label: "GitHub"
       icon: "fab fa-github-square"
       url: "https://github.com/Gioele-Bencivenga"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sgnerpock45due"
-    - label: "Itch"
-      icon: "fab fa-itch-io"
-      url: "https://gioele-bencivenga.itch.io/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://uk.linkedin.com/in/gioele-bencivenga"
 
-# These settings essentially say output index.html files for each games document in the _games folder
+# These settings essentially say output index.html files for each projects document in the _projects folder
 collections:
   projects:
     output: true
